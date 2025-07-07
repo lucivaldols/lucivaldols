@@ -45,7 +45,7 @@ Atualmente estou aprendendo **programação web**, **integrações com IA** e **
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucivaldo-santos&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lucivaldols&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
