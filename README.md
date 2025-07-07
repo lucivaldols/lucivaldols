@@ -39,7 +39,7 @@ Atualmente estou aprendendo **programação web**, **integrações com IA** e **
 ## 📫 Contato
 
 - 📧 **Email:** lucivaldosantos.dev@gmail.com  
-- 💼 **LinkedIn:** [linkedin.com/in/lucivaldosantos](https://linkedin.com/in/lucivaldosantos)  
+- 💼 **LinkedIn:** [linkedin.com/in/lucivaldosantos](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)  
 - 🌍 **Site/Portfólio (em construção)**: lucivaldo.dev.br
 
 ---
